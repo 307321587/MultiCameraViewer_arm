@@ -10,6 +10,10 @@ QT交叉编译及环境设置请参考：[https://developer.horizon.ai/forumDeta
 
 需要将编译第一个QT程序跑通
 
+github地址为：https://github.com/307321587/MultiCameraViewer_arm
+
+需要将压缩包ffmpeg-arm.tar.xz解压到当前目录下，即ffmpeg-arm文件夹和MultiCameraViewer文件夹在同一层级
+
 # 三、代码解析
 
 代码文件路径主要如下所示：
